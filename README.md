@@ -1,5 +1,6 @@
 # TechnicalTest-RankCV
 Technical test for the Senior QA position proposed by RankCV.
+
 Test#1
 This script uses the Selenium WebDriver library to automate the web browser and perform the required actions. Here's a breakdown of the steps:
 The script initializes the Chrome driver using webdriver.Chrome().
